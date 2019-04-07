@@ -1,4 +1,4 @@
-baseURL = "http://localhost/"
+baseURL = "http://arthur.afarias.org/"
 languageCode = "en-us"
 title = "Arthur Farias"
 theme = "beautiful"
@@ -8,17 +8,17 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentOptions = "linenos=table"
-#disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+disqusShortname = "arthur-afarias-org"
+googleAnalytics = "UA-137868927-1"
 
 [Params]
   subtitle = "Electrical Engineering Student and Enthusiast Developer"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
-  dateFormat = "2 January, 2006"
+  dateFormat = "January 2, 2006"
   commit = false
   rss = false
-  comments = false
+  comments = true
   readingTime = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
@@ -38,7 +38,7 @@ pygmentOptions = "linenos=table"
   name = "Arthur de Araújo Farias"
   website = "arthur.afarias.org"
   email = "arthur@afarias.org"
-  facebook = "arthurafarias"
+  # facebook = "arthurafarias"
   # googleplus = "+arthurafarias" # or xxxxxxxxxxxxxxxxxxxxx
   github = "arthurafarias"
   gitlab = "arthurafarias"
@@ -48,19 +48,19 @@ pygmentOptions = "linenos=table"
   # xing = "arthurafarias"
   stackoverflow = "users/1526039/arthur-afarias"
   # snapchat = "arthurafarias"
-  instagram = "arthurafarias"
-  youtube = "user/arthurafarias" # or channel/channelname
+  # instagram = "arthurafarias"
+  # youtube = "user/arthurafarias" # or channel/channelname
   # soundcloud = "username"
   # spotify = "arthura"
   # bandcamp = "username"
   # itchio = "username"
   # vk = "username"
-  paypal = "arthurafarias"
-  telegram = "arthurafarias"
+  # paypal = "arthurafarias"
+  # telegram = "arthurafarias"
 
 [[menu.main]]
     name = "Blog"
-    url = ""
+    url = "posts/"
     weight = 1
 
 [[menu.main]]
