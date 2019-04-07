@@ -6,21 +6,35 @@ draft: false
 
 # Carrer Profile
 
-Currently finishing Bachelor's degree in Electrical Engineering at [Universidade Federal de Campina Grande](http://ufcg.edu.br/), Brazil. Mainly directed to development of embedded systems both hardware and software approaches.
+I am a Brazilian Bachelor in Electrical Engineering currently living in Spain. My career profile is based on a strong background in electronics and embedded software. Feel free to contact me by phone in [Brazil](+5581986409601) or [Spain](tel:+34651318519) or by [e-mail](mailto:arthur@afarias.org). I also have a slack channel.
 
 # Experiences
 
-Versatility in development os electronic and embedded systems are the main goals of experience during my carrer.
+Versatility in the development of electronic and embedded systems were the main goals of experience during my career but I also have experience in scientific instrument maintenance.
 
-## Computer Vision Systems using OpenCV and C++
+## C/C++ programming
 
-My current development activities are mainly focused on feature extraction and classification using OpenCV and C++. Algorithms as SIFT, SURF and FAST are being currently studied to objet recognition applications.
+In 2019 I've contributed in an Open Source project called Pistache available at http://pistache.io. A complete STL C++11 REST framework for Linux systems. In this project, I've solved some memory leaks and some minor issues in the project structure.
+
+## Schematic Capture and PCB Design
+
+I have strong knowledge in tools like Autodesk Eagle and Labcenter Electronics Proteus besides of know how to design mixed-signal and medium-frequency circuit-boards.
+
+## Linux Device Drivers
+
+In 2018 I worked in Federal University of Campina Grande modifying V4L2 Linux drivers to add support to ADV7604 in a custom i.MX6 platform.
+
+## Computer Vision Systems using OpenCV
+
+In 2018 I was responsible to investigate the application of OpenCV algorithms as SIFT, SURF and FAST in several projects to Federal University of Campina Grande C++. The main goal of my bachelor's project was a performance comparison between the methods in a quad-core ARMv7 platform.
 
 ## IOT Development
 
-My experience in IOT systems are mainly focused in MQTT and MQTTs over TCP/IP connection using WiFi using Expressif ESP-12e.
+My experience in IOT systems is mainly focused on MQTT and MQTTs over TCP/IP connection using WiFi using Expressif ESP-12e.
 
-## IP Core desing
+In 2017 I ported the RFM95 Lora Radio Transceiver driver to Texas Instruments TM4C123GXL ARM Cortex M microcontroller. The driver was written in C.
+
+## IP Core design
 
 Contributed designing a proof of concept parity check port using FPGA, validation using Verilator.
 
@@ -48,6 +62,6 @@ In 2015, associated with Radiometria Research Group of UFCG, build a toolbox for
 
 # Proficiency
 
- - English (Listening: intermediate, Writing: Intermediate, Speaking: Intermediate)
- - Español (Listening: Advanced, Writing: Advanced, Speaking: Advanced)
- - Português (First Language)
+ - English (Listening: Advanced, Writing: Advanced, Speaking: Intermediate)
+ - Español (Listening: Native, Writing: Native, Speaking: Native)
+ - Português (Mothertongue)
