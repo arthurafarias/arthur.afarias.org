@@ -13,7 +13,7 @@ googleAnalytics = "UA-137868927-1"
 
 [Params]
   subtitle = "Electrical Engineering Student and Enthusiast Developer"
-  logo = "img/avatar-icon.png"
+  logo = "img/profile.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
