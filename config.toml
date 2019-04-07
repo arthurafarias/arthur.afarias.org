@@ -1,4 +1,4 @@
-baseURL = "http://arthur.afarias.org/"
+baseURL = "https://arthur.afarias.org/"
 languageCode = "en-us"
 title = "Arthur Farias"
 theme = "beautiful-custom"
