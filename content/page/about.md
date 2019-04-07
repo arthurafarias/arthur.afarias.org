@@ -6,7 +6,7 @@ draft: false
 
 # Carrer Profile
 
-I am a Brazilian Bachelor in Electrical Engineering currently living in Spain. My career profile is based on a strong background in electronics and embedded software. Feel free to contact me by phone in [Brazil](+5581986409601) or [Spain](tel:+34651318519) or by [e-mail](mailto:arthur@afarias.org). I also have a slack channel.
+I am a Brazilian Bachelor in Electrical Engineering currently living in Spain. My career profile is based on a strong background in electronics and embedded software. Feel free to contact me by phone in [Brazil](tel:+5581986409601) or [Spain](tel:+34651318519) or by [e-mail](mailto:arthur@afarias.org). I also have a slack channel.
 
 # Experiences
 
