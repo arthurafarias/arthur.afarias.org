@@ -1,7 +1,7 @@
 baseURL = "http://arthur.afarias.org/"
 languageCode = "en-us"
 title = "Arthur Farias"
-theme = "beautiful"
+theme = "beautiful-custom"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
@@ -20,6 +20,7 @@ googleAnalytics = "UA-137868927-1"
   rss = false
   comments = true
   readingTime = true
+  selfHosted = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 #[[Params.bigimg]]
