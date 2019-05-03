@@ -12,7 +12,7 @@ disqusShortname = "arthur-afarias-org"
 googleAnalytics = "UA-137868927-1"
 
 [Params]
-  subtitle = "Electrical Engineering Student and Enthusiast Developer"
+  subtitle = "An Electrical Engineer and Enthusiast Developer"
   logo = "img/profile.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
