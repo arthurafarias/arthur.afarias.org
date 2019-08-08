@@ -61,3 +61,7 @@ googleAnalytics = "UA-137868927-1"
   changefreq = "monthly"
   filename = "sitemap.xml"
   priority = 0.5
+
+uglyurls = true
+[permalinks]
+  post = ":filename"
